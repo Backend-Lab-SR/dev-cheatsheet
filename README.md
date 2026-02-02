@@ -1,6 +1,6 @@
 # dev-cheatsheets
 
-A collection of daily-use engineering commands and cheatsheets for senior software engineers.
+A collection of daily-use engineering commands and cheatsheets for software engineers.
 
 ## 📚 Cheatsheets
 
